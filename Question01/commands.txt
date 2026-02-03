@@ -2,4 +2,7 @@ chmod +x analyze.sh
 
 ./analyze.sh
 
+echo "Hello world" > test.txt
+./analyze.sh test.txt
+./analyze.sh .
 

@@ -1,3 +1,6 @@
 No output is displayed because the script logic has not been implemented yet.
 Error: Please provide exactly one argument.
 
+The given path is a file.
+The given path is a directory.
+

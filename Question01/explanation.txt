@@ -21,3 +21,15 @@ Command:
 Explanation:
 This command runs the script without providing any arguments. The script correctly detects the missing argument and displays an error message.
 
+Command:
+./analyze.sh test.txt
+
+Explanation:
+This command runs the script with a file as input. The script correctly identifies the given path as a regular file.
+
+Command:
+./analyze.sh .
+
+Explanation:
+This command runs the script with a directory as input. The script correctly identifies the given path as a directory.
+
